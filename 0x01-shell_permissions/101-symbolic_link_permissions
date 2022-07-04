@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -vincent betty:staff _vincent
+chown -staff betty:vincent _vincent
